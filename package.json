@@ -2,6 +2,7 @@
   "name": "redux-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://commandercooldev.github.io/React-Redux-Todo-App",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.11.10",
